@@ -23,7 +23,7 @@
  *           key = q
  *           value = Indonesia
  *
- *  Query digunakan untuk mengirim data ke server dengan menggunakan method GETT
+ *  Query digunakan untuk mengirim data ke server dengan menggunakan method GET
  */
 
 const http = require("http");
